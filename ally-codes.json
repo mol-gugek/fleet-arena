@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Mol Gugek",
     "allyCode": "572782589",
   },
@@ -72,6 +71,9 @@
     "allyCode": "392617851",
     "discordId": "180720037978570753"
   },
+  {
+    "name": "silverking",
+    "allyCode": "876732139"
   },
   {
     "name": "CarnagE",
@@ -113,10 +115,6 @@
   {
     "name": "Revanche Gilder",
     "allyCode": "789937951"
-  },
-  {
-    "name": "silverking",
-    "allyCode": "876732139"
   },
   {
     "name": "Lucetius",
@@ -209,5 +207,13 @@
   {
     "name": "Khendrik",
     "allyCode": "627849849"
+  },
+  {
+    "name": "Lukas",
+    "allyCode": "413183273"
+  },
+  {
+    "name": "miracleMikey",
+    "allyCode": "158913189"
   }
 ]
