@@ -110,7 +110,6 @@
     "name": "2Chappo",
     "allyCode": "498945791"
   },
-
   {
     "name": "silverking",
     "allyCode": "876732139"
@@ -119,11 +118,11 @@
     "name": "Revanche Gilder",
     "allyCode": "789937951"
   },
+  
   {
     "name": "Bivensko",
     "allyCode": "444344961"
   },
-
   {
     "name": "R2DrollC3PO2",
     "allyCode": "223521163"
@@ -135,10 +134,6 @@
   {
     "name": "Lucetius",
     "allyCode": "749262958"
-  },
-  {
-    "name": "Shutdown",
-    "allyCode": "887752165"
   },
   {
     "name": "FlΔsh GordΔn",
@@ -166,7 +161,8 @@
   },
   {
     "name": "diablos17",
-    "allyCode": "853273353"
+    "allyCode": "853273353",
+    "discordId": "709515875434233887"
   },
   {
     "name": "SlamJ",
@@ -174,20 +170,16 @@
   },
   {
     "name": "jfuosfhcjy",
-    "allyCode": "533188759"
+    "allyCode": "533188759",
+    "discordId": "709515875434233887"
   },
   {
     "name": "Cog Fexlom",
     "allyCode": "825724468"
   },
-
   {
     "name": "Krystoff",
     "allyCode": "134269787"
-  },
-  {
-    "name": "Zoli Shepard",
-    "allyCode": "634617845"
   },
   {
     "name": "Jedlicka",
@@ -205,6 +197,11 @@
     "name": "Shawn Ren",
     "allyCode": "815139989"
   },
+  {
+    "name": "Shutdown",
+    "allyCode": "887752165",
+    "discordId": "709515875434233887"
+  },  
   {
     "name": "sidesjm",
     "allyCode": "641657448"
@@ -232,5 +229,9 @@
   {
     "name": "Mostlomike",
     "allyCode": "285234436"
+  },
+    {
+    "name": "Zoli Shepard",
+    "allyCode": "634617845"
   }
 ]
