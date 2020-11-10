@@ -112,16 +112,16 @@
     "allyCode": "791398157"
   },
   {
-    "name": "2Chappo",
-    "allyCode": "498945791"
-  },
-  {
     "name": "silverking",
     "allyCode": "876732139"
   },
   {
     "name": "Revanche Gilder",
     "allyCode": "789937951"
+  },
+  {
+    "name": "2Chappo",
+    "allyCode": "498945791"
   },
   {
     "name": "Bivensko",
@@ -200,17 +200,25 @@
     "name": "Khendrik",
     "allyCode": "627849849"
   },
-    {
+  {
+    "name": "Kiervan Astol",
+    "allyCode": "898638755"
+  },
+  {
     "name": "KloppRulz",
     "allyCode": "267385765"
   },
   {
-    "name": "Krystoff",
-    "allyCode": "134269787"
+    "name": "Kol Antares",
+    "allyCode": "113955195"
   },
   {
     "name": "Kurbstomp",
     "allyCode": "964448729"
+  },
+  {
+    "name": "L333",
+    "allyCode": "413183273"
   },
   {
     "name": "Lucetius",
@@ -236,6 +244,10 @@
     "name": "Mostlomike",
     "allyCode": "285234436"
   }, 
+  {
+    "name": "NickDaKingPin",
+    "allyCode": "884714493"
+  },
   {
     "name": "Perplex",
     "allyCode": "722965515"
@@ -271,8 +283,16 @@
     "allyCode": "641657448"
   },
   {
+    "name": "SnowRunner",
+    "allyCode": "416852259"
+  },
+  {
     "name": "Velan",
     "allyCode": "563488358"
+  },
+  {
+    "name": "Wolfman1408",
+    "allyCode": "447612583"
   },
   {
     "name": "Willyg",
