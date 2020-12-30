@@ -6,7 +6,7 @@
   {
     "name": "kizza",
     "allyCode": "853621493",
-    "discordId": "457041373628203010"
+    "tagIdOnDrop": "457041373628203010"
   },
   {
     "name": "FreeMan",
@@ -47,7 +47,7 @@
   {
     "name": "Meshcher979",
     "allyCode": "672843739",
-    "discordId": "432568262640009217"
+    "tagIdOnDrop": "432568262640009217"
   },
   {
     "name": "Oliwaw'ζ la Mandale",
@@ -64,7 +64,7 @@
   {
     "name": "Faytu Huxli",
     "allyCode": "392617851",
-    "discordId": "180720037978570753"
+    "tagIdOnDrop": "180720037978570753"
   },
   {
     "name": "Mader",
@@ -85,7 +85,7 @@
   {
     "name": "JT",
     "allyCode": "195741162",
-    "discordId": "191697709927890944"
+    "tagIdOnDrop": "191697709927890944"
   },
   {
     "name": "Jemma Lara",
@@ -94,6 +94,7 @@
   {
     "name": "Mol Gugek",
     "allyCode": "572782589",
+    "tagIdOnDrop": "174552837550768128"
   },
   {
     "name": "ENils",
@@ -146,12 +147,12 @@
   {
     "name": "diablos17",
     "allyCode": "853273353",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "Drasten",
     "allyCode": "919799742",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "Ezio Auditore",
@@ -160,7 +161,7 @@
   {
     "name": "FlΔsh GordΔn",
     "allyCode": "752454478",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "GWALL",
@@ -181,12 +182,11 @@
   {
     "name": "jfuosfhcjy",
     "allyCode": "533188759",
-    "discordId": "723907650189918308"
   },
   {
     "name": "Joshua",
     "allyCode": "578239321",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "Kali",
@@ -271,12 +271,12 @@
   {
     "name": "Shawn Ren",
     "allyCode": "815139989",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "Shutdown",
     "allyCode": "887752165",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "sidesjm",
@@ -297,7 +297,7 @@
   {
     "name": "Willyg",
     "allyCode": "276523926",
-    "discordId": "723907650189918308"
+    "tagIdOnClimb": "723907650189918308"
   },
   {
     "name": "Zoli Shepard",
