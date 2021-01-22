@@ -52,10 +52,10 @@
     "name": "Oliwaw'ζ la Mandale",
     "allyCode": "846175821"
   },
- {
-     "name": "Hnk",
-     "allyCode": "196265182"
- },
+  {
+    "name": "Hnk",
+    "allyCode": "196265182"
+  },
   {
     "name": "Wolfman1408",
     "allyCode": "447612583"
@@ -72,6 +72,10 @@
     "name": "Faytu Huxli",
     "allyCode": "392617851",
     "tagIdOnDrop": "180720037978570753"
+  },
+  {
+    "name": "jfuosfhcjy",
+    "allyCode": "533188759"
   },
   {
     "name": "Mader",
@@ -137,7 +141,8 @@
   },
   {
     "name": "Bongar Jialugoo",
-    "allyCode": "264993147"
+    "allyCode": "264993147",
+    "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "chefriley",
@@ -176,8 +181,8 @@
     "tagIdOnClimb": "&722891497250488430"
   },
   {
-     "name": "GeneralBeers",
-     "allyCode": "796692338"
+    "name": "GeneralBeers",
+    "allyCode": "796692338"
   },
   {
     "name": "hshah",
@@ -192,21 +197,19 @@
     "allyCode": "356547521"
   },
   {
-    "name": "jfuosfhcjy",
-    "allyCode": "533188759"
-  },
-  {
     "name": "Joshua",
     "allyCode": "578239321",
     "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "Kali",
-    "allyCode": "782173298"
+    "allyCode": "782173298",
+    "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "Kalidor",
-    "allyCode": "727945425"
+    "allyCode": "727945425",
+    "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "Khendrik",
@@ -230,7 +233,8 @@
   },
   {
     "name": "L333",
-    "allyCode": "413183273"
+    "allyCode": "413183273",
+    "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "Lucetius",
@@ -259,6 +263,11 @@
   {
     "name": "NickDaKingPin",
     "allyCode": "884714493"
+  },
+  {
+    "name": "Peeping",
+    "allyCode": "689849897",
+    "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "Perplex",
@@ -296,7 +305,8 @@
   },
   {
     "name": "SnowRunner",
-    "allyCode": "416852259"
+    "allyCode": "416852259",
+    "tagIdOnClimb": "&722891497250488430"
   },
   {
     "name": "Velan",
